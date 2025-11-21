@@ -1,15 +1,7 @@
-# Entornos virtuales
-venv/
-.venv/
-
-# Carpetas de datos y modelos
-data/
-models/
-
-# Ficheros de Python compilados y caches
-__pycache__/
-*.pyc
-
-# Ficheros de configuración de IDEs
 .vscode/
 .idea/
+data/
+.venv/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
